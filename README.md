@@ -22,6 +22,8 @@ Formetta consists of clear, simple and very easy to reproduce / memorize symbols
 
 The goal was to have a script that was easy to write everywhere, being it a comfortable or uncomfortable situation, using either writing tools or anything sharp.
 
+NOTE: A simpler version of Formetta, called FormettaSimple, does not distinguish between upper and lower cases and just keep the "!" as a punctuation sign (others remains the same).
+
 ##### Notable features
 
 - Type of writing system: alphabet
